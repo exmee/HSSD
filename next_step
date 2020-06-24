@@ -1,0 +1,4 @@
+BlitzNet300(s4):--run_name=BlitzNet300_x4_VOC0712_det --dataset=voc07+12 --trunk=resnet50 --x4 --batch_size=32 --optimizer=adam --detect --max_iterations=65000 --lr_decay 35000 50000
+BlitzNet300(s8):--run_name=BlitzNet300_VOC0712_det --dataset=voc07+12 --trunk=resnet50 --batch_size=32 --optimizer=adam --detect --max_iterations=65000 --lr_decay 35000 50000
+BlitzNet512(s8):--run_name=BlitzNet512_VOC0712_det --dataset=voc07+12 --trunk=resnet50 --image_size=512 --batch_size=16 --optimizer=adam --detect --max_iterations=75000 --lr_decay 45000 60000
+BlitzNet300+seg(s4):--run_name=BlitzNet300_x4_VOC0712_detseg --dataset=voc07+12-segmentation --trunk=resnet50 --x4 --batch_size=16 --optimizer=adam --detect --segment --max_iterations=65000 --lr_decay 35000 50000

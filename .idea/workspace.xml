@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e9f5029-0b4d-4eeb-9429-798d403907b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/000456.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/000456.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/000542.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/000542.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/000745.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/000745.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/001150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/001150.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/001763.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/001763.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/002489.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/002489.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/004040.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/004040.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/004096.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/004096.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/004187.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/004187.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/004219.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/004219.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/004442.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/004442.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/004545.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/004545.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/006545.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/006545.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/006901.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/006901.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/006967.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/006967.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/007818.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/007818.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/009169.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/009169.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/coco.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/coco.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/coco_people.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/coco_people.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extra/collage.png" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/collage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/demo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/interface/demo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/demo_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/demo_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/teaser_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/teaser_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paths.py" beforeDir="false" afterPath="$PROJECT_DIR$/paths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/resnet_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set_extra_annotations.py" beforeDir="false" afterPath="$PROJECT_DIR$/set_extra_annotations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voc_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/voc_loader.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dd8CtpLe0ioDSFfMZfKpjl7JVZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HSSD+att" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="datasets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="blitznet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="blitznet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="--run_name=hssd_VOC0712_det --detect --eval_min_conf=0.5 --ckpt=65" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="draw_box" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blitznet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_box.py" />
+      <option name="PARAMETERS" value="--run_name=hssd_VOC0712_det --detect --eval_min_conf=0.5 --ckpt=65" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="blitznet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="--run_name=hssd_VOC0712_det --dataset=voc07+12 --split=val --image_size=300 --detect --ckpt=65 --save_first_n=100" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="blitznet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training.py" />
+      <option name="PARAMETERS" value="--run_name=hssd_VOC0712noval_detseg --dataset=voc07+12-segfull --trunk=resnet50 --batch_size=32 --optimizer=adam --image_size=300 --detect --max_iterations=65000 --lr_decay 35000 50000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.datasets" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.training" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.draw_box" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.draw_box" />
+        <item itemvalue="Python.training" />
+        <item itemvalue="Python.datasets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e9f5029-0b4d-4eeb-9429-798d403907b3" name="Default Changelist" comment="" />
+      <created>1556040972309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556040972309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592755085374">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="366" y="128" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1592755085374" />
+    <state x="721" y="297" key="FileChooserDialogImpl" timestamp="1592987694375">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="721" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1592987694375" />
+    <state width="1829" height="387" key="GridCell.Tab.0.bottom" timestamp="1592988144572">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="387" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1592988144572" />
+    <state width="1829" height="387" key="GridCell.Tab.0.center" timestamp="1592988144571">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="387" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1592988144571" />
+    <state width="1829" height="387" key="GridCell.Tab.0.left" timestamp="1592988144570">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="387" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1592988144570" />
+    <state width="1829" height="387" key="GridCell.Tab.0.right" timestamp="1592988144571">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="387" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1592988144571" />
+    <state width="1829" height="275" key="GridCell.Tab.1.bottom" timestamp="1592809403331">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="275" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1592809403331" />
+    <state width="1829" height="275" key="GridCell.Tab.1.center" timestamp="1592809403331">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="275" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1592809403331" />
+    <state width="1829" height="275" key="GridCell.Tab.1.left" timestamp="1592809403330">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="275" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1592809403330" />
+    <state width="1829" height="275" key="GridCell.Tab.1.right" timestamp="1592809403331">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1829" height="275" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1592809403331" />
+    <state x="516" y="174" key="SettingsEditor" timestamp="1592743564250">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="516" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1592743564250" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/training.py</url>
+          <line>183</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datasets.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
